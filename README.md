@@ -1,3 +1,1 @@
 "# RiceDiseaseDetection" 
-"# RiceDiseaseDetection" 
-"# RiceDiseaseDetection" 
